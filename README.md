@@ -41,7 +41,9 @@ Click below to view the full certificate:
 - 🔵 Blinking LED project  
 - 🌡️ Temperature sensor monitoring  
 - 📏 Ultrasonic distance measurement  
-- 🔘 Button-controlled circuits  
+- 🔘 Button-controlled circuits
+- Line Follower
+- Attendence robot
 
 ---
 
