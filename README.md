@@ -32,7 +32,7 @@ It represents my understanding of:
 
 Click below to view the full certificate:
 
-[![Arduino Certificate](certificate.jpg)]
+![Arduino Certificate](certificate.jpg)
 
 ---
 
